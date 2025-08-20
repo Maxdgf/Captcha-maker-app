@@ -1,11 +1,15 @@
 # Captcha-maker-app
-Компьютерное приложение на python с помощью которого можно создать капчу. Также задать текст и название сохраняемого файла.
-
+A computer application in python that can be used to create a captcha. Also set the text and name of the file being saved.
 
 ![](screendemo.png)
 
+Requirements:
 
-Требования:
-1) tkinter library (pip install tkinter)
-2) pillow library (pip install pillow)
-3) captcha library (pip install captcha)
+##
+    pip install tkinter
+
+##
+    pip install pillow
+
+##
+    pip install captcha
